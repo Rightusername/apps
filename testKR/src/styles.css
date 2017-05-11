@@ -1,0 +1,7 @@
+.button {
+	background-color: blue;
+}
+
+.label:hover{
+	background-color: red;
+}
